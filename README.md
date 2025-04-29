@@ -81,4 +81,3 @@ print id
 - `makefile`: Archivo para automatizar la compilación
 - `example.ac`: Archivo de ejemplo para probar el analizador
 - `code_generator.py`: Generador de código auxiliar
-# act3.1-a01641113
