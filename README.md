@@ -75,6 +75,16 @@ id assign inum
 print id
 ```
 
+## Generación de Código de Prueba
+
+Si deseas generar un archivo de código aleatorio para probar el analizador, puedes utilizar el script `code_generator.py`:
+
+```bash
+python3 code_generator.py > example.ac
+```
+
+Este comando generará un archivo `example.ac` con código aleatorio válido para probar el analizador léxico.
+
 ## Estructura del Proyecto
 
 - `lex_analyzer.l`: Archivo fuente con las reglas léxicas
