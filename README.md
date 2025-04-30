@@ -49,6 +49,9 @@ El analizador reconoce los siguientes tokens:
 - `fnum`: Números flotantes (ejemplo: 3.14)
 - `inum`: Números enteros (ejemplo: 42)
 - `plus`: Operador de suma (+)
+- `minus`: Operador de resta (-)
+- `mult`: Operador de multiplicación (\*)
+- `div`: Operador de división
 - `COMMENT`: Comentarios de línea (//)
 
 ## Ejemplo
