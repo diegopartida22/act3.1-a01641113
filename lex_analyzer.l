@@ -12,6 +12,9 @@
 [0-9]+\.[0-9]+                { printf("fnum "); }
 [0-9]+                        { printf("inum "); }
 "+"                           { printf("plus "); }
+"-"                           { printf("minus "); }
+"*"                           { printf("mult "); }
+"/"                           { printf("div "); }
 \n                            { printf("\n"); }
 [ \t]+                        { /* ignore other whitespace */ }
 .                             { /* ignore unknown characters */ }

@@ -9,7 +9,7 @@
 
 ## Autor
 
-**Diego Partida Romero**  
+**Diego Partida Romero**
 _Fecha: 29/04/2025_
 
 ## Requisitos
